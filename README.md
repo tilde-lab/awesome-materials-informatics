@@ -9,14 +9,14 @@ Please, contribute according to the [guidelines](/CONTRIBUTING.md).
 
 - [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
-- [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**)
+- [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
 - [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _proprietary_ simulation infrastructure.
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
 - [CMR](https://wiki.fysik.dtu.dk/cmr) - Computational Materials Repository (**Python**).
 - [ESTEST](http://estest.ucdavis.edu) - framework to facilitate the verification and comparison of electronic structure codes (**Python**).
 - [Exabyte](http://exabyte.io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
-- [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**)
+- [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
 - [ioChem-BD](http://www.iochem-bd.org) - solution to manage computational chemistry Big Data (**Java**).
 - [MedeA](http://www.materialsdesign.com/medea) - _proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [PyIron](https://github.com/pyiron) - _proprietary_ **Python** framework of Max Planck Institute for Iron Research (Germany).
