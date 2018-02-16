@@ -1,6 +1,6 @@
 # Awesome Materials Informatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The novel discipline of materials informatics is a junction of materials, computer, and data science. It aims to join the nowadays competing physics- and data-intensive algorithms for the most revolutionary and impactful science about the matter of habitual things, transfigured our society in the 20th century.
+The novel discipline of materials informatics is a junction of materials, computer, and data sciences. It aims to unite the nowadays competing physics- and data-intensive efforts for the most impactful applied science about the matter of habitual things, transfigured our society in the 20th century.
 
 ## Contributing
 Please, contribute according to the [guidelines](/CONTRIBUTING.md).
@@ -24,7 +24,7 @@ Please, contribute according to the [guidelines](/CONTRIBUTING.md).
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
 
-## Machine-readable datasets
+## Machine-readable materials datasets
 
 - [AFLOW](http://www.aflowlib.org) - Flow for Materials Discovery repository.
 - [ATB](http://compbio.biosci.uq.edu.au/atb) - Automated Topology Builder and Repository.
