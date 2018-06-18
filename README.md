@@ -2,8 +2,13 @@
 
 The novel discipline of _materials informatics_ is a junction of materials, computer, and data sciences. It aims to unite the nowadays competing physics- and data-intensive efforts for the most impactful applied science about the matter of habitual things, transfigured our society in the 20th century.
 
-## Contributing
-Please, contribute according to the [guidelines](/CONTRIBUTING.md).
+Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.md).
+
+## Contents
+
+- [Software frameworks](#software-frameworks)
+- [Machine-readable materials datasets](#machine-readable-materials-datasets)
+- [Standardization initiatives](#standardization-initiatives)
 
 ## Software frameworks
 
@@ -52,6 +57,13 @@ Please, contribute according to the [guidelines](/CONTRIBUTING.md).
 - [Open Materials Database](http://openmaterialsdb.se)
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp)
+
+## Standardization initiatives
+
+- [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography)
+- [Blue Obelisk](http://www.blueobelisk.org) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust)
+- [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust)
+- [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
