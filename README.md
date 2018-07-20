@@ -4,17 +4,19 @@ The novel discipline of _materials informatics_ is a junction of materials, comp
 
 Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.md).
 
+
 ## Contents
 
 - [Software frameworks](#software-frameworks)
 - [Machine-readable materials datasets](#machine-readable-materials-datasets)
 - [Standardization initiatives](#standardization-initiatives)
 
+
 ## Software frameworks
 
 - [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
-- [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
+- [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
 - [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _Proprietary_ simulation infrastructure.
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
@@ -34,6 +36,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [QMForge](http://qmforge.sourceforge.net) - **Python** framework.
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
+
 
 ## Machine-readable materials datasets
 
@@ -61,14 +64,16 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp)
 
+
 ## Standardization initiatives
 
-- [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography)
 - [Blue Obelisk](http://www.blueobelisk.org) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust)
+- [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography)
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust)
 - [EMMO](https://emmc.info) - European Materials Modelling Ontology (in development)
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format
 - [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler)
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
