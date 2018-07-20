@@ -16,16 +16,16 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
-- [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _proprietary_ simulation infrastructure.
+- [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _Proprietary_ simulation infrastructure.
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
-- [ESTEST](http://estest.ucdavis.edu) - framework to facilitate the verification and comparison of electronic structure codes (**Python**).
+- [ESTEST](http://estest.ucdavis.edu) - Framework to facilitate the verification and comparison of electronic structure codes (**Python**).
 - [Exabyte](http://exabyte.io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
-- [ioChem-BD](http://www.iochem-bd.org) - solution to manage computational chemistry Big Data (**Java**).
+- [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
-- [MedeA](http://www.materialsdesign.com/medea) - _proprietary_ computational **Tcl** environment by Materials Design, Inc.
-- [PyIron](https://github.com/pyiron) - _proprietary_ **Python** framework of Max Planck Institute for Iron Research (Germany).
+- [MedeA](http://www.materialsdesign.com/medea) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
+- [PyIron](https://github.com/pyiron) - _Proprietary_ **Python** framework of Max Planck Institute for Iron Research (Germany).
 - [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
 - [pymks](http://pymks.org) - Materials Knowledge System in **Python**.
 - [QMForge](http://qmforge.sourceforge.net) - **Python** framework.
