@@ -19,11 +19,13 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _Proprietary_ simulation infrastructure.
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
+- [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).
 - [ESTEST](http://estest.ucdavis.edu) - Framework to facilitate the verification and comparison of electronic structure codes (**Python**).
 - [Exabyte](http://exabyte.io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
 - [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
 - [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
+- [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
 - [MedeA](http://www.materialsdesign.com/medea) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [PyIron](https://github.com/pyiron) - _Proprietary_ **Python** framework of Max Planck Institute for Iron Research (Germany).
@@ -37,7 +39,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 
 - [AFLOW](http://www.aflowlib.org) - Flow for Materials Discovery repository (_cf._ **AFLOW** framework).
 - [ATB](http://compbio.biosci.uq.edu.au/atb) - Automated Topology Builder and Repository.
-- [AtomWork](http://crystdb.nims.go.jp/index_en.html)
+- [AtomWork](http://crystdb.nims.go.jp/index_en.html) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp)
 - [Baikov Institute of Metallurgy and Materials Science](http://bg.imet-db.ru) - Russian databases.
 - [cccbdb](http://cccbdb.nist.gov) - Computational Chemistry Comparison and Benchmark Database.
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
