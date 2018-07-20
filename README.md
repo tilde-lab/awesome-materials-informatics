@@ -14,8 +14,8 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 
 ## Software frameworks
 
-- [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
+- [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
 - [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _Proprietary_ simulation infrastructure.
