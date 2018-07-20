@@ -22,6 +22,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [ESTEST](http://estest.ucdavis.edu) - Framework to facilitate the verification and comparison of electronic structure codes (**Python**).
 - [Exabyte](http://exabyte.io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
+- [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
 - [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
 - [MedeA](http://www.materialsdesign.com/medea) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
@@ -54,7 +55,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [Nanomaterial Registry](https://www.nanomaterialregistry.org) - fully curated resource that archives research data on nanomaterials.
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov)
-- [Open Materials Database](http://openmaterialsdb.se)
+- [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp)
 
