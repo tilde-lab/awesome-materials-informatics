@@ -63,6 +63,8 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography)
 - [Blue Obelisk](http://www.blueobelisk.org) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust)
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust)
+- [EMMO](https://emmc.info) - European Materials Modelling Ontology (in development)
+- [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format
 - [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler)
 
 ## License
