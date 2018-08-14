@@ -30,7 +30,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
 - [MedeA](http://www.materialsdesign.com/medea) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
-- [PyIron](https://github.com/pyiron) - _Proprietary_ **Python** framework of Max Planck Institute for Iron Research (Germany).
+- [pyiron](https://github.com/pyiron) - an integrated development environment (IDE) for computational materials science (**Python**).
 - [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
 - [pymks](http://pymks.org) - Materials Knowledge System in **Python**.
 - [QMForge](http://qmforge.sourceforge.net) - **Python** framework.
