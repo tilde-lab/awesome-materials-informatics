@@ -25,6 +25,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [ESTEST](http://estest.ucdavis.edu) - Framework to facilitate the verification and comparison of electronic structure codes (**Python**).
 - [Exabyte](http://exabyte.io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
+- [Granta MI](http://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
 - [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
 - [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
