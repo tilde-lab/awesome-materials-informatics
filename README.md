@@ -62,6 +62,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [NREL MatDB](http://materials.nrel.gov)
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
+- [ROD](http://solsa.crystallography.net/rod/) - Raman Open Database
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp)
 
 
