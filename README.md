@@ -2,7 +2,7 @@
 
 The novel discipline of _materials informatics_ is a junction of materials, computer, and data sciences. It aims to unite the nowadays competing physics- and data-intensive efforts for the most impactful applied science about the matter of habitual things, transfigured our society in the 20th century.
 
-Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.md).
+Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md).
 
 
 ## Contents
@@ -75,7 +75,8 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [EMMO](https://emmc.info) - European Materials Modelling Ontology (in development)
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format
 - [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler)
-
+- [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the
+  [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) (of the Research Data Alliance)
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
