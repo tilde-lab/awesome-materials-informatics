@@ -52,6 +52,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [CMR](https://wiki.fysik.dtu.dk/cmr) - Computational Materials Repository (_cf._ **ASE** framework).
 - [COD](http://crystallography.net) - Crystallography Open Database (including theoretical database).
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
+- [ICSD](http://www2.fiz-karlsruhe.de/icsd_home.html) - Inorganic Crystal Structure Database (partly _proprietary_).
 - [Materials Cloud](http://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Project](http://www.materialsproject.org) - computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
