@@ -53,7 +53,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [COD](http://crystallography.net) - Crystallography Open Database (including theoretical database).
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
 - [ICSD](http://www2.fiz-karlsruhe.de/icsd_home.html) - Inorganic Crystal Structure Database (partly _proprietary_).
-- [Khazana](https://khazana.gatech.edu/index.php?m=1) - Repository for data created in atomistic simulations, features also the polymer genome.
+- [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
 - [Materials Cloud](http://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Project](http://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
