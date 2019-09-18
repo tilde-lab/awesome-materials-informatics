@@ -17,8 +17,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
 - [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
-- [Atomic Simulation Recipes](https://gitlab.com/dtorel/asr) -- Collection of recipes for common
-tasks in atomic scale materials research, based on ASE (**Python**).
+- [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
 - [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _Proprietary_ simulation infrastructure.
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
