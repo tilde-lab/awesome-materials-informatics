@@ -56,6 +56,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [ICSD](http://www2.fiz-karlsruhe.de/icsd_home.html) - Inorganic Crystal Structure Database (partly _proprietary_).
 - [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
 - [Materials Cloud](http://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
+- [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
 - [Materials Project](http://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
 - [MPDS](https://mpds.io) - Materials Platform for Data Science (based on the PAULING FILE experimental database, partly _proprietary_).
