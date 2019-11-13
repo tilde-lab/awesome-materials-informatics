@@ -48,6 +48,7 @@ tasks in atomic scale materials research, based on ASE (**Python**).
 - [AtomWork](http://crystdb.nims.go.jp/index_en.html) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp)
 - [Baikov Institute of Metallurgy and Materials Science](http://bg.imet-db.ru) - Russian databases.
 - [cccbdb](http://cccbdb.nist.gov) - Computational Chemistry Comparison and Benchmark Database.
+- [CascadesDB](https://cascadesdb.org) - Database of molecular dynamics simulations of collision cascades, developed by the International Atomic Energy Agency.
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
 - [CEPDB](http://cepdb.molecularspace.org) - Harvard Clean Energy Project.
 - [Citrination](https://citrination.com) - AI-Powered Materials Data Platform (partly _proprietary_).
