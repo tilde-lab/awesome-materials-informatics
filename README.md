@@ -10,6 +10,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [Software frameworks](#software-frameworks)
 - [Machine-readable materials datasets](#machine-readable-materials-datasets)
 - [Standardization initiatives](#standardization-initiatives)
+- [Similar compilations](#similar-compilations)
 
 
 ## Software frameworks
@@ -82,6 +83,15 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format.
 - [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler).
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
+
+
+## Similar compilations
+
+- [Data‐Driven Materials Science: Status, Challenges, and Perspectives](https://doi.org/10.1002/advs.201900808)
+- [European Materials Modelling Council Taxondas](https://emmc.info/taxonda)
+- [Information Resources on Inorganic Chemistry](http://en.iric.imet-db.ru) - a collection from Baikov Institute of Metallurgy and Materials Science, Russia.
+- [Materials-Related Databases](https://github.com/blaiszik/Materials-Databases)
+
 
 ## License
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
