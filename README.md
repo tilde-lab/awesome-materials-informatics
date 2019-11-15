@@ -23,7 +23,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).
-- [Exabyte](http://exabyte.io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
+- [Exabyte](https://github.com/Exabyte-io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
 - [Granta MI](http://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
 - [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
@@ -46,6 +46,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [ATB](http://compbio.biosci.uq.edu.au/atb) - Automated Topology Builder and Repository.
 - [AtomWork](http://crystdb.nims.go.jp/index_en.html) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
 - [Baikov Institute of Metallurgy and Materials Science](http://bg.imet-db.ru) - Russian databases.
+- [CascadesDB](https://cascadesdb.org) - Molecular dynamics simulations of collision cascades, by the International Atomic Energy Agency.
 - [cccbdb](http://cccbdb.nist.gov) - Computational Chemistry Comparison and Benchmark Database.
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
 - [CEPDB](http://cepdb.molecularspace.org) - Harvard Clean Energy Project.
