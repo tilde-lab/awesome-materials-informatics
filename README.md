@@ -8,6 +8,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 ## Contents
 
 - [Software frameworks](#software-frameworks)
+- [Cloud simulation platforms](#cloud-simulation-platforms)
 - [Machine-readable materials datasets](#machine-readable-materials-datasets)
 - [Standardization initiatives](#standardization-initiatives)
 - [Similar compilations](#similar-compilations)
@@ -24,12 +25,10 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).
-- [Exabyte](https://github.com/Exabyte-io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
 - [Granta MI](http://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
 - [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
 - [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
-- [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [OACIS](http://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver.
@@ -39,6 +38,13 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [QMForge](http://qmforge.sourceforge.net) - **Python** framework.
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
+
+
+## Cloud simulation platforms
+
+- [Exabyte](https://github.com/Exabyte-io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
+- [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
+- [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud from South Korea.
 
 
 ## Machine-readable materials datasets
