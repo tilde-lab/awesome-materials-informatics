@@ -34,6 +34,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [OACIS](http://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver.
 - [pyiron](https://github.com/pyiron) - An integrated development environment (IDE) for computational materials science (**Python**).
 - [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
+- [pymatflow](https://github.com/DeqiTang/pymatflow) - Workflow manager and highthroughput tool for DFT modeling of materials (**Python**).
 - [pymks](http://pymks.org) - Materials Knowledge System in **Python**.
 - [QMForge](http://qmforge.sourceforge.net) - **Python** framework.
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
