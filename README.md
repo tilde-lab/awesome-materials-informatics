@@ -32,7 +32,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [MedeA](http://www.materialsdesign.com/medea) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [pyiron](https://github.com/pyiron) - an integrated development environment (IDE) for computational materials science (**Python**).
 - [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
-- [pymks](http://pymks.org) - Materials Knowledge System in **Python**.
+- [pymks](http://pymks.org) - Materials Knowledge System (**Python**).
 - [QMForge](http://qmforge.sourceforge.net) - **Python** framework.
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
@@ -56,7 +56,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
 - [MPDS](https://mpds.io) - Materials Platform for Data Science (based on the PAULING FILE experimental database, partly _proprietary_).
-- [nanoHUB](https://nanohub.org/developer) - place for computational nanotechnology research, education, and collaboration.
+- [nanoHUB](https://nanohub.org/developer) - Computational nanotechnology research, education, and collaboration.
 - [Nanomaterial Registry](https://www.nanomaterialregistry.org) - fully curated resource that archives research data on nanomaterials.
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov)
@@ -70,7 +70,7 @@ Contributions are very welcomed, please, follow the [guidelines](/CONTRIBUTING.m
 - [Blue Obelisk](http://www.blueobelisk.org) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust)
 - [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography)
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust)
-- [EMMO](https://emmc.info) - European Materials Modelling Ontology (in development)
+- [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format
 - [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler)
 
