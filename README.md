@@ -2,7 +2,7 @@
 
 The novel discipline of _materials informatics_ is a junction of materials, computer, and data sciences. It aims to unite the nowadays competing physics- and data-intensive efforts for the most impactful applied science, that transformed our society in the 20th century.
 
-Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md).
+Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md).
 
 
 ## Contents
@@ -36,7 +36,7 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**).
 - [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
 - [pymks](http://pymks.org) - Materials Knowledge System (**Python**).
-- [QMForge](http://qmforge.sourceforge.net) - **Python** framework.
+- [QMForge](https://sourceforge.net/projects/qmforge/) - **Python** framework and GUI for analyzing results of quantum chemistry codes.
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
 
@@ -72,7 +72,6 @@ Contributions are very welcome - please follow the [guidelines](/CONTRIBUTING.md
 - [MPOD](http://mpod.cimav.edu.mx/) - Material Properties Open Database.
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
 - [nanoHUB](https://nanohub.org/developer) - Place for computational nanotechnology research, education, and collaboration.
-- [Nanomaterial Registry](https://www.nanomaterialregistry.org) - Fully curated resource that archives research data on nanomaterials.
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov)
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
