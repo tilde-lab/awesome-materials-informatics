@@ -35,7 +35,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [pyiron](https://github.com/pyiron) - An integrated development environment (IDE) for computational materials science (**Python**).
 - [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**).
 - [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
-- [pymks](http://pymks.org) - Materials Knowledge System in **Python**.
+- [pymks](http://pymks.org) - Materials Knowledge System (**Python**).
 - [QMForge](https://sourceforge.net/projects/qmforge/) - **Python** framework and GUI for analyzing results of quantum chemistry codes.
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
@@ -85,6 +85,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Blue Obelisk](http://www.blueobelisk.org) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust).
 - [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography).
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust).
+- [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology
 - [EMMO](https://emmc.info) - European Materials Modelling Ontology (in development).
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format.
 - [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler).
