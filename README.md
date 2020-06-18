@@ -62,7 +62,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CMR](https://wiki.fysik.dtu.dk/cmr) - Computational Materials Repository (_cf._ **ASE** framework).
 - [COD](http://crystallography.net) - Crystallography Open Database (including theoretical database).
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
-- [ICSD](http://www2.fiz-karlsruhe.de/icsd_home.html) - Inorganic Crystal Structure Database (partly _proprietary_).
+- [ICSD](https://icsd.products.fiz-karlsruhe.de/) - Inorganic Crystal Structure Database (partly _proprietary_).
 - [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
 - [Materials Cloud](http://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
@@ -73,10 +73,10 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
 - [nanoHUB](https://nanohub.org/developer) - Place for computational nanotechnology research, education, and collaboration.
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
-- [NREL MatDB](http://materials.nrel.gov)
+- [NREL MatDB](http://materials.nrel.gov) - Computational database of thermochemical and electronic properties of materials for renewable energy applications
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
-- [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp)
+- [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
 - [ROD](http://solsa.crystallography.net/rod/) - Raman Open Database.
 
 
