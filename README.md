@@ -72,7 +72,6 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MPOD](http://mpod.cimav.edu.mx/) - Material Properties Open Database.
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
 - [nanoHUB](https://nanohub.org/developer) - Place for computational nanotechnology research, education, and collaboration.
-- [Nanomaterial Registry](https://www.nanomaterialregistry.org) - Fully curated resource that archives research data on nanomaterials.
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov)
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
