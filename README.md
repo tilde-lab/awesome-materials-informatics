@@ -53,12 +53,11 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [AFLOW](http://www.aflowlib.org) - Flow for Materials Discovery repository (_cf._ **AFLOW** framework).
 - [ATB](http://compbio.biosci.uq.edu.au/atb) - Automated Topology Builder and Repository.
-- [AtomWork](http://crystdb.nims.go.jp/index_en.html) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
+- [AtomWork](https://crystdb.nims.go.jp/en) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
 - [Baikov Institute of Metallurgy and Materials Science](http://bg.imet-db.ru) - Russian databases.
 - [CascadesDB](https://cascadesdb.org) - Molecular dynamics simulations of collision cascades, by the International Atomic Energy Agency.
 - [cccbdb](http://cccbdb.nist.gov) - Computational Chemistry Comparison and Benchmark Database.
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
-- [CEPDB](http://cepdb.molecularspace.org) - Harvard Clean Energy Project.
 - [Citrination](https://citrination.com) - AI-Powered Materials Data Platform (partly _proprietary_).
 - [CMR](https://wiki.fysik.dtu.dk/cmr) - Computational Materials Repository (_cf._ **ASE** framework).
 - [COD](http://crystallography.net) - Crystallography Open Database (including theoretical database).
