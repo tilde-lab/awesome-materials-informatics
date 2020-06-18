@@ -88,7 +88,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust).
 - [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology.
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format.
-- [OPTiMaDe](http://www.optimade.org) - Open Databases Integration for Materials Design (by Rignanese, Marzari, Scheffler).
+- [OPTIMADE](http://www.optimade.org) - Open Databases Integration for Materials Design.
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
 
 
