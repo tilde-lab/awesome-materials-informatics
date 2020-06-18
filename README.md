@@ -43,6 +43,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Cloud simulation platforms
 
+- [AiiDA lab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework)
 - [Exabyte](https://github.com/Exabyte-io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud from South Korea.
