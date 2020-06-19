@@ -87,6 +87,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust).
 - [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology.
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format.
+- [ESSE](https://github.com/Exabyte-io/esse) - Exabyte Source of Schemas and Examples designed for digital materials science.
 - [JCAMP-DX](http://www.jcamp-dx.org) - Electronic data standards for chemical and spectroscopy information (by IUPAC).
 - [KIM API](https://openkim.org/kim-api/) - API standard for connecting molecular simulation codes with interatomic models.
 - [NOMAD Meta Info](https://metainfo.nomad-coe.eu/nomadmetainfo_public/archive.html) - Schema for storing results of ab initio and force-field atomistic simulations (by NOMAD Laboratory).
