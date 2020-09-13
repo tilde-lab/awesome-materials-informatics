@@ -37,6 +37,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
 - [pymks](http://pymks.org) - Materials Knowledge System (**Python**).
 - [QMForge](https://sourceforge.net/projects/qmforge/) - **Python** framework and GUI for analyzing results of quantum chemistry codes.
+- [QMflows](https://github.com/SCM-NV/qmflows) - **Python** library for input generation and task handling in computational chemistry.
 - [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
 
