@@ -21,7 +21,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
-- [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _Proprietary_ simulation infrastructure.
+- [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
 - [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).
