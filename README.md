@@ -17,27 +17,27 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Software frameworks
 
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
-- [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
+- [AiiDA](https://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
-- [cclib](http://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
+- [cclib](https://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
-- [Granta MI](http://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
-- [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
-- [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
+- [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
+- [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
+- [ioChem-BD](https://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
-- [OACIS](http://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver.
+- [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver.
 - [pyiron](https://github.com/pyiron) - An integrated development environment (IDE) for computational materials science (**Python**).
 - [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**).
-- [Pymatgen](http://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
-- [pymks](http://pymks.org) - Materials Knowledge System (**Python**).
+- [Pymatgen](https://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
+- [pymks](https://pymks.org) - Materials Knowledge System (**Python**).
 - [QMForge](https://sourceforge.net/projects/qmforge/) - **Python** framework and GUI for analyzing results of quantum chemistry codes.
-- [qmpy](http://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
+- [qmpy](https://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
 
 
@@ -60,13 +60,13 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
 - [Citrination](https://citrination.com) - AI-Powered Materials Data Platform (partly _proprietary_).
 - [CMR](https://wiki.fysik.dtu.dk/cmr) - Computational Materials Repository (_cf._ **ASE** framework).
-- [COD](http://crystallography.net) - Crystallography Open Database (including theoretical database).
+- [COD](https://www.crystallography.net) - Crystallography Open Database (including theoretical database).
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
 - [ICSD](https://icsd.products.fiz-karlsruhe.de/) - Inorganic Crystal Structure Database (partly _proprietary_).
 - [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
-- [Materials Cloud](http://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
+- [Materials Cloud](https://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
-- [Materials Project](http://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
+- [Materials Project](https://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
 - [MPDS](https://mpds.io) - Materials Platform for Data Science (based on the PAULING FILE experimental database, partly _proprietary_).
 - [MPOD](http://mpod.cimav.edu.mx/) - Material Properties Open Database.
@@ -75,14 +75,14 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov) - Computational database of thermochemical and electronic properties of materials for renewable energy applications
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
-- [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
+- [OQMD](https://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
-- [ROD](http://solsa.crystallography.net/rod/) - Raman Open Database.
+- [ROD](https://solsa.crystallography.net/rod/) - Raman Open Database.
 
 
 ## Standardization initiatives
 
-- [Blue Obelisk](http://www.blueobelisk.org) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust).
+- [Blue Obelisk](https://blueobelisk.github.io) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust).
 - [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography).
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust).
 - [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology.
@@ -91,8 +91,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [JCAMP-DX](http://www.jcamp-dx.org) - Electronic data standards for chemical and spectroscopy information (by IUPAC).
 - [KIM API](https://openkim.org/kim-api/) - API standard for connecting molecular simulation codes with interatomic models.
 - [NOMAD Meta Info](https://metainfo.nomad-coe.eu/nomadmetainfo_public/archive.html) - Schema for storing results of ab initio and force-field atomistic simulations (by NOMAD Laboratory).
-- [OPTIMADE](http://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
-- [PIF](http://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine).
+- [OPTIMADE](https://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
+- [PIF](https://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine).
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
 - [SMIRNOFF](https://open-forcefield-toolkit.readthedocs.io/en/latest/smirnoff.html) - Specification for encoding molecular mechanics force fields (by [Open Force Field Initiative](http://openforcefield.org/)).
 
