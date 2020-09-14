@@ -17,7 +17,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Software frameworks
 
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
-- [AiiDA](https://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
+- [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
@@ -75,7 +75,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov) - Computational database of thermochemical and electronic properties of materials for renewable energy applications
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
-- [OQMD](https://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
+- [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
 - [ROD](https://solsa.crystallography.net/rod/) - Raman Open Database.
 
