@@ -21,23 +21,25 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) 
-- [BIOVIA Materials Studio](http://accelrys.com/products/collaborative-science/biovia-materials-studio) - _Proprietary_ simulation infrastructure.
-- [cclib](http://cclib.github.io) - Parse and interpret the results of computational chemistry packages (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
+- [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
+- [cclib](https://cclib.github.io) - Parse and interpret the results of computational chemistry packages (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
 - [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project) 
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian) 
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) 
-- [Granta MI](http://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
-- [httk](http://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk) 
-- [ioChem-BD](http://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
+- [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
+- [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk) 
+- [ioChem-BD](https://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
-- [OACIS](http://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis) 
+- [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis) 
 - [pyiron](https://github.com/pyiron) - Integrated development environment (IDE) for computational materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/pyiron/pyiron?style=social)](https://github.com/pyiron/pyiron) 
 - [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**). [![Github Stars](https://img.shields.io/github/stars/deqitang/pymatflow?style=social)](https://github.com/deqitang/pymatflow) 
-- [Pymatgen](http://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) 
-- [pymks](http://pymks.org) - Materials Knowledge System (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsinnovation/pymks?style=social)](https://github.com/materialsinnovation/pymks) 
+- [Pymatgen](https://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) 
+- [pymks](https://pymks.org) - Materials Knowledge System (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsinnovation/pymks?style=social)](https://github.com/materialsinnovation/pymks) 
 - [QMForge](https://sourceforge.net/projects/qmforge/) - **Python** framework and GUI for analyzing results of quantum chemistry codes.
-- [qmpy](http://pythonhosted.org/qmpy) - **Python** backend creating and running the Open Quantum Materials Database. [![Github Stars](https://img.shields.io/github/stars/wolverton-research-group/qmpy?style=social)](https://github.com/wolverton-research-group/qmpy) 
+- [QMflows](https://github.com/SCM-NV/qmflows) - **Python** library for input generation and task handling in computational chemistry. [![Github Stars](https://img.shields.io/github/stars/SCM-NV/qmflows?style=social)](https://github.com/SCM-NV/qmflows)
+- [qmpy](https://pythonhosted.org/qmpy) - **Python** backend creating and running the Open Quantum Materials Database. [![Github Stars](https://img.shields.io/github/stars/wolverton-research-group/qmpy?style=social)](https://github.com/wolverton-research-group/qmpy) 
+- [RDKit](https://github.com/rdkit/rdkit) - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit)
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde) 
 
 
@@ -60,13 +62,13 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
 - [Citrination](https://citrination.com) - AI-Powered Materials Data Platform (partly _proprietary_).
 - [CMR](https://wiki.fysik.dtu.dk/cmr) - Computational Materials Repository (_cf._ **ASE** framework).
-- [COD](http://crystallography.net) - Crystallography Open Database (including theoretical database).
+- [COD](https://www.crystallography.net) - Crystallography Open Database (including theoretical database).
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
 - [ICSD](https://icsd.products.fiz-karlsruhe.de/) - Inorganic Crystal Structure Database (partly _proprietary_).
 - [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
-- [Materials Cloud](http://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
+- [Materials Cloud](https://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
-- [Materials Project](http://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
+- [Materials Project](https://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
 - [MPDS](https://mpds.io) - Materials Platform for Data Science (based on the PAULING FILE experimental database, partly _proprietary_).
 - [MPOD](http://mpod.cimav.edu.mx/) - Material Properties Open Database.
@@ -77,12 +79,12 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
-- [ROD](http://solsa.crystallography.net/rod/) - Raman Open Database.
+- [ROD](https://solsa.crystallography.net/rod/) - Raman Open Database.
 
 
 ## Standardization initiatives
 
-- [Blue Obelisk](http://www.blueobelisk.org) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust).
+- [Blue Obelisk](https://blueobelisk.github.io) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust).
 - [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography).
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust).
 - [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology.
@@ -91,8 +93,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [JCAMP-DX](http://www.jcamp-dx.org) - Electronic data standards for chemical and spectroscopy information (by IUPAC).
 - [KIM API](https://openkim.org/kim-api/) - API standard for connecting molecular simulation codes with interatomic models.
 - [NOMAD Meta Info](https://metainfo.nomad-coe.eu/nomadmetainfo_public/archive.html) - Schema for storing results of ab initio and force-field atomistic simulations (by NOMAD Laboratory).
-- [OPTIMADE](http://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
-- [PIF](http://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine).
+- [OPTIMADE](https://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
+- [PIF](https://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine).
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
 - [SMIRNOFF](https://open-forcefield-toolkit.readthedocs.io/en/latest/smirnoff.html) - Specification for encoding molecular mechanics force fields (by [Open Force Field Initiative](http://openforcefield.org/)).
 
