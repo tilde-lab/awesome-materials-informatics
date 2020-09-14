@@ -17,30 +17,30 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Software frameworks
 
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
-- [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**).
+- [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) 
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
-- [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**).
+- [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) 
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
-- [cclib](https://cclib.github.io) - **Python** library for parsing and interpreting the results of computational chemistry packages.
-- [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**).
-- [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).
-- [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**).
+- [cclib](https://cclib.github.io) - Parse and interpret the results of computational chemistry packages (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
+- [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project) 
+- [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian) 
+- [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) 
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
-- [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**).
+- [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk) 
 - [ioChem-BD](https://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
-- [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**).
+- [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
-- [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver.
-- [pyiron](https://github.com/pyiron) - An integrated development environment (IDE) for computational materials science (**Python**).
-- [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**).
-- [Pymatgen](https://pymatgen.org) - Python Materials Genomics, a robust, open-source **Python** library for materials analysis.
-- [pymks](https://pymks.org) - Materials Knowledge System (**Python**).
+- [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis) 
+- [pyiron](https://github.com/pyiron) - Integrated development environment (IDE) for computational materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/pyiron/pyiron?style=social)](https://github.com/pyiron/pyiron) 
+- [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**). [![Github Stars](https://img.shields.io/github/stars/deqitang/pymatflow?style=social)](https://github.com/deqitang/pymatflow) 
+- [Pymatgen](https://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) 
+- [pymks](https://pymks.org) - Materials Knowledge System (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsinnovation/pymks?style=social)](https://github.com/materialsinnovation/pymks) 
 - [QMForge](https://sourceforge.net/projects/qmforge/) - **Python** framework and GUI for analyzing results of quantum chemistry codes.
-- [QMflows](https://github.com/SCM-NV/qmflows) - **Python** library for input generation and task handling in computational chemistry.
-- [qmpy](https://pythonhosted.org/qmpy) - **Python** backend responsible for creating and running the Open Quantum Materials Database.
-- [RDKit](https://github.com/rdkit/rdkit) - A collection of cheminformatics and machine-learning software written in **C++** and **Python**.
-- [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories.
+- [QMflows](https://github.com/SCM-NV/qmflows) - **Python** library for input generation and task handling in computational chemistry. [![Github Stars](https://img.shields.io/github/stars/SCM-NV/qmflows?style=social)](https://github.com/SCM-NV/qmflows)
+- [qmpy](https://pythonhosted.org/qmpy) - **Python** backend creating and running the Open Quantum Materials Database. [![Github Stars](https://img.shields.io/github/stars/wolverton-research-group/qmpy?style=social)](https://github.com/wolverton-research-group/qmpy) 
+- [RDKit](https://github.com/rdkit/rdkit) - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit)
+- [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde) 
 
 
 ## Cloud simulation platforms
