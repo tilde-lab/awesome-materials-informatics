@@ -7,14 +7,14 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Contents
 
-- [Software frameworks](#software-frameworks)
+- [Software and products](#software-and-products)
 - [Cloud simulation platforms](#cloud-simulation-platforms)
 - [Machine-readable materials datasets](#machine-readable-materials-datasets)
 - [Standardization initiatives](#standardization-initiatives)
 - [Similar compilations](#similar-compilations)
 
 
-## Software frameworks
+## Software and products
 
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
 - [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) 
