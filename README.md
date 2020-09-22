@@ -29,9 +29,12 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
 - [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk) 
 - [ioChem-BD](https://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
+- [matador](https://github.com/ml-evs/matador) - library for aggregation and analysis of high-throughput DFT (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador)
+- [matminer](https://github.com/hackingmaterials/matminer) - A library for performing data mining in the field of materials science (**Python**) [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social)](https://github.com/hackingmaterials/matminer)
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis) 
+- [optimade-python-tools](https://github.com/Materials-Consortia/optimade-python-tools) - Tools for implementing and consuming OPTIMADE APIs in Python (_cf._ OPTIMADE specification).  [![Github Stars](https://img.shields.io/github/stars/Materials-Consortia/optimade-python-tools?style=social)](https://github.com/Materials-Consortia/optimade-python-tools)
 - [pyiron](https://github.com/pyiron) - Integrated development environment (IDE) for computational materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/pyiron/pyiron?style=social)](https://github.com/pyiron/pyiron) 
 - [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**). [![Github Stars](https://img.shields.io/github/stars/deqitang/pymatflow?style=social)](https://github.com/deqitang/pymatflow) 
 - [Pymatgen](https://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) 
@@ -64,7 +67,9 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CMR](https://wiki.fysik.dtu.dk/cmr) - Computational Materials Repository (_cf._ **ASE** framework).
 - [COD](https://www.crystallography.net) - Crystallography Open Database (including theoretical database).
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
+- [HybriD3 Materials Database](https://materials.hybrid3.duke.edu/) - A comprehensive collection of experimental and computational materials data for crystalline organic-inorganic compounds.
 - [ICSD](https://icsd.products.fiz-karlsruhe.de/) - Inorganic Crystal Structure Database (partly _proprietary_).
+- [JARVIS](https://jarvis.nist.gov/) - Joint Automated Repository for Various Integrated Simulations (NIST).
 - [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
 - [Materials Cloud](https://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
@@ -76,6 +81,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [nanoHUB](https://nanohub.org/developer) - Place for computational nanotechnology research, education, and collaboration.
 - [NoMaD](https://nomad-coe.eu) - Novel Materials Discovery, Repository and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov) - Computational database of thermochemical and electronic properties of materials for renewable energy applications
+- [Organic Materials Database](https://omdb.mathub.io/) -  Electronic structure database for 3-dimensional organic crystals (Nordita).
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
