@@ -61,6 +61,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [AtomWork](https://crystdb.nims.go.jp/en) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
 - [Baikov Institute of Metallurgy and Materials Science](http://bg.imet-db.ru) - Russian databases.
 - [CascadesDB](https://cascadesdb.org) - Molecular dynamics simulations of collision cascades, by the International Atomic Energy Agency.
+- [Catalysis Hub](https://www.catalysis-hub.org/) - Web-platform for sharing data and software for computational catalysis research.
 - [cccbdb](http://cccbdb.nist.gov) - Computational Chemistry Comparison and Benchmark Database.
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
 - [Citrination](https://citrination.com) - AI-Powered Materials Data Platform (partly _proprietary_).
