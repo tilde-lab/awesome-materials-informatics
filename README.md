@@ -86,6 +86,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
+- [Pitt Quantum Repository](https://pqr.pitt.edu/) - Molecular properties predicted from quantum mechanics.
 - [ROD](https://solsa.crystallography.net/rod/) - Raman Open Database.
 
 
