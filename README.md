@@ -23,8 +23,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) 
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
 - [cclib](https://cclib.github.io) - Parse and interpret the results of computational chemistry packages (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
-- [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project) 
-- [ColabFit](https://colabfit.org) - Collaborative infrastructure for the development and distribution of state-of-the-art data-driven interatomic potentials (DDIPs).
+- [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project)
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian) 
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) 
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
@@ -97,6 +96,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Blue Obelisk](https://blueobelisk.github.io) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust).
 - [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography).
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust).
+- [ColabFit](https://colabfit.org) - Collaborative infrastructure for the development and distribution of state-of-the-art data-driven interatomic potentials (DDIPs).
 - [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology.
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format.
 - [ESSE](https://github.com/Exabyte-io/esse) - Exabyte Source of Schemas and Examples designed for digital materials science.
