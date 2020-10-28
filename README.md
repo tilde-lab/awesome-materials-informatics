@@ -34,7 +34,6 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis) 
-- [OpenKIM](https://openkim.org) - Repository of interatomic potential implementations and computational protocols for testing them.
 - [optimade-python-tools](https://github.com/Materials-Consortia/optimade-python-tools) - Tools for [OPTIMADE APIs](https://www.optimade.org) in **Python**. [![Github Stars](https://img.shields.io/github/stars/Materials-Consortia/optimade-python-tools?style=social)](https://github.com/Materials-Consortia/optimade-python-tools)
 - [pyiron](https://github.com/pyiron) - Integrated development environment (IDE) for computational materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/pyiron/pyiron?style=social)](https://github.com/pyiron/pyiron) 
 - [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**). [![Github Stars](https://img.shields.io/github/stars/deqitang/pymatflow?style=social)](https://github.com/deqitang/pymatflow) 
@@ -85,6 +84,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [NREL MatDB](http://materials.nrel.gov) - Computational database of thermochemical and electronic properties of materials for renewable energy applications
 - [Organic Materials Database](https://omdb.mathub.io/) -  Electronic structure database for 3-dimensional organic crystals (Nordita).
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
+- [OpenKIM](https://openkim.org) - Repository of interatomic potential implementations and computational protocols for testing them.
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
 - [Pitt Quantum Repository](https://pqr.pitt.edu/) - Molecular properties predicted from quantum mechanics.
