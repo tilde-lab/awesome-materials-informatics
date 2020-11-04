@@ -101,12 +101,12 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology.
 - [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format.
 - [ESSE](https://github.com/Exabyte-io/esse) - Exabyte Source of Schemas and Examples designed for digital materials science.
+- [GEMD](https://citrineinformatics.github.io/gemd-docs/) - Graphical Expression of Materials Data (by Citrine), supersedes _PIF_.
 - [JCAMP-DX](http://www.jcamp-dx.org) - Electronic data standards for chemical and spectroscopy information (by IUPAC).
 - [KIM API](https://openkim.org/kim-api/) - API standard for connecting molecular simulation codes with interatomic models.
 - [NOMAD Meta Info](https://metainfo.nomad-coe.eu/nomadmetainfo_public/archive.html) - Schema for storing results of ab initio and force-field atomistic simulations (by NOMAD Laboratory).
 - [OPTIMADE](https://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
-- [PIF](https://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine).
-- [GEMD](https://citrineinformatics.github.io/gemd-docs/) - Graphical Expression of Materials Data (by Citrine) -- supersedes PIF.
+- [PIF](https://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine), superseded by _GEMD_.
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
 - [SMIRNOFF](https://open-forcefield-toolkit.readthedocs.io/en/latest/smirnoff.html) - Specification for encoding molecular mechanics force fields (by [Open Force Field Initiative](http://openforcefield.org/)).
 
