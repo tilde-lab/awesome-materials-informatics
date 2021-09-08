@@ -58,7 +58,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Machine-readable materials datasets
 
 - [AFLOW](http://www.aflowlib.org) - Flow for Materials Discovery repository (_cf._ **AFLOW** framework).
-- [ATB](http://compbio.biosci.uq.edu.au/atb) - Automated Topology Builder and Repository.
+- [ATB](https://atb.uq.edu.au/) - Automated Topology Builder and Repository.
 - [AtomWork](https://crystdb.nims.go.jp/en) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
 - [Baikov Institute of Metallurgy and Materials Science](http://bg.imet-db.ru) - Russian databases.
 - [Carolina Materials Database](http://www.carolinamatdb.org) - an ML-DFT database of the University of South Carolina.
@@ -101,12 +101,12 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CML](http://www.xml-cml.org) - Chemical Markup Language: molecules, compounds, reactions, spectra, crystals _etc._ (by Murray-Rust).
 - [ColabFit](https://colabfit.org) - Collaborative infrastructure for the development and distribution of state-of-the-art data-driven interatomic potentials (DDIPs).
 - [EMMO](https://github.com/emmo-repo/EMMO) - European Materials Modelling Ontology.
-- [ESCDF](https://esl.cecam.org/ESCDF_-_Electronic_Structure_Common_Data_Format) - Electronic Structure Common Data Format.
+- [ESCDF](https://gitlab.com/ElectronicStructureLibrary/escdf/escdf-specifications) - Electronic Structure Common Data Format.
 - [ESSE](https://github.com/Exabyte-io/esse) - Exabyte Source of Schemas and Examples designed for digital materials science.
 - [GEMD](https://citrineinformatics.github.io/gemd-docs/) - Graphical Expression of Materials Data (by Citrine), supersedes _PIF_.
 - [JCAMP-DX](http://www.jcamp-dx.org) - Electronic data standards for chemical and spectroscopy information (by IUPAC).
 - [KIM API](https://openkim.org/kim-api/) - API standard for connecting molecular simulation codes with interatomic models.
-- [NOMAD Meta Info](https://metainfo.nomad-coe.eu/nomadmetainfo_public/archive.html) - Schema for storing results of ab initio and force-field atomistic simulations (by NOMAD Laboratory).
+- [NOMAD Meta Info](https://nomad-lab.eu/services/metainfo) - Schema for storing results of ab initio and force-field atomistic simulations (by NOMAD Laboratory).
 - [OPTIMADE](https://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
 - [PIF](https://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine), superseded by _GEMD_.
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
