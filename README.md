@@ -115,6 +115,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Similar compilations
 
+- [atomistic.software](https://atomistic.software) - a collection of major atomistic simulation engines with citation info
 - [Data‐Driven Materials Science: Status, Challenges, and Perspectives](https://doi.org/10.1002/advs.201900808)
 - [Experimental chemistry and materials science data](https://github.com/neo-chem/awesome-chemical-data).
 - [European Materials Modelling Council Taxondas](https://emmc.info/taxonda)
