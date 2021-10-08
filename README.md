@@ -113,7 +113,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [OPTIMADE](https://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
 - [PIF](https://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine), superseded by _GEMD_.
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
-- [SMIRNOFF](https://open-forcefield-toolkit.readthedocs.io/en/latest/smirnoff.html) - Specification for encoding molecular mechanics force fields (by [Open Force Field Initiative](http://openforcefield.org/)).
+- [Open Force Field Toolkit](https://open-forcefield-toolkit.readthedocs.io) - Specification for encoding molecular mechanics force fields (by [Open Force Field Initiative](http://openforcefield.org/)).
 
 
 ## Similar compilations
