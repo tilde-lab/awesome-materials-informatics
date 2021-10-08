@@ -80,6 +80,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
 - [Materials Project](https://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
+- [MolSSI](https://qcarchive.molssi.org) - The MolSSI Quantum Chemistry Archive.
 - [MPDS](https://mpds.io) - Materials Platform for Data Science (based on the PAULING FILE experimental database, partly _proprietary_).
 - [MPOD](http://mpod.cimav.edu.mx/) - Material Properties Open Database.
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
