@@ -21,6 +21,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 - [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) 
+- [aviary](https://github.com/CompRhys/aviary) - Predict materials properties using compositions, Wyckoff representations, and crystal structures (**Python**). [![Github Stars](https://img.shields.io/github/stars/CompRhys/aviary?style=social)](https://github.com/CompRhys/aviary)
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
 - [CAMD](https://github.com/tri-amdd/camd) - Agent-based sequential learning software for materials discovery (**Python**). [![Github Stars](https://img.shields.io/github/stars/tri-amdd/camd?style=social)](https://github.com//tri-amdd/camd)
 - [CrabNet](https://github.com/anthony-wang/CrabNet) - Predict materials properties using only the composition information. (**Python**). ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-wang/CrabNet?style=social)
