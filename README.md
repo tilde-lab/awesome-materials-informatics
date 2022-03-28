@@ -67,7 +67,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [AFLOW](http://www.aflowlib.org) - Flow for Materials Discovery repository (_cf._ **AFLOW** framework).
 - [ATB](https://atb.uq.edu.au/) - Automated Topology Builder and Repository.
 - [AtomWork](https://crystdb.nims.go.jp/en) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
-- [Baikov Institute of Metallurgy and Materials Science](http://bg.imet-db.ru) - Russian databases.
+- [Baikov Institute of Metallurgy and Materials Science](https://imet-db.ru) - Databases of Russian Academy of Sciences.
 - [Carolina Materials Database](http://www.carolinamatdb.org) - an ML-DFT database of the University of South Carolina.
 - [CascadesDB](https://cascadesdb.org) - Molecular dynamics simulations of collision cascades, by the International Atomic Energy Agency.
 - [Catalysis Hub](https://www.catalysis-hub.org/) - Web-platform for sharing data and software for computational catalysis research.
