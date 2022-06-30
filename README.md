@@ -61,6 +61,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Exabyte](https://github.com/Exabyte-io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud from South Korea.
+- [SIT Rolos](https://rolos.com) - Research platform for materials from Schaffhausen Institute of Technology (Switzerland).
 
 
 ## Machine-readable materials datasets
