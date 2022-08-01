@@ -57,6 +57,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Cloud simulation platforms
 
+- [Absolidix](https://absolidix.com) - On-demand cloud simulations of materials from **MPDS** (PAULING FILE) using **AiiDA** framework.
 - [AiiDAlab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework).
 - [Exabyte](https://github.com/Exabyte-io) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley).
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
