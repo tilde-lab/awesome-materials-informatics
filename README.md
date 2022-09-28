@@ -31,7 +31,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit (**Python**). [![Github Stars](https://img.shields.io/github/stars/datamol-org/datamol?style=social)](https://github.com/datamol-org/datamol) 
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) 
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
-- [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk) 
+- [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk)
+- [ICMD](https://www.questek.com/software) - A digital materials design platform in the cloud from QuesTek Innovations LLC (_proprietary_).
 - [ioChem-BD](https://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
 - [matador](https://github.com/ml-evs/matador) - A library for aggregation and analysis of high-throughput DFT (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador)
 - [matbench](https://github.com/materialsproject/matbench) - Matbench: Benchmarks for materials science property prediction (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/matbench?style=social)](https://github.com/materialsproject/matbench)
