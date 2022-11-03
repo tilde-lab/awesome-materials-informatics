@@ -53,6 +53,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [qmpy](https://pythonhosted.org/qmpy) - **Python** backend creating and running the Open Quantum Materials Database. [![Github Stars](https://img.shields.io/github/stars/wolverton-research-group/qmpy?style=social)](https://github.com/wolverton-research-group/qmpy) 
 - [RDKit](https://github.com/rdkit/rdkit) - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit)
 - [SEAMM](https://molssi-seamm.github.io/) - Simulation Environment for Atomistic and Molecular Modeling (**Python**). [![Github Stars](https://img.shields.io/github/stars/molssi-seamm/seamm?style=social)](https://github.com/molssi-seamm/seamm) 
+- [SLAMD](https://github.com/BAMresearch/WEBSLAMD) - An open source web app for data driven acceleration of cement and concrete development through digital lab twin and AI optimization. (**Python/javascript**) [![Github Stars](https://img.shields.io/github/stars/BAMresearch/WEBSLAMD?style=social)](https://github.com/BAMresearch/WEBSLAMD) 
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde) 
 
 
