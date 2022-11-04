@@ -7,11 +7,14 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Contents
 
-- [Software and products](#software-and-products)
-- [Cloud simulation platforms](#cloud-simulation-platforms)
-- [Machine-readable materials datasets](#machine-readable-materials-datasets)
-- [Standardization initiatives](#standardization-initiatives)
-- [Similar compilations](#similar-compilations)
+- [Awesome Materials Informatics ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-materials-informatics-)
+  - [Contents](#contents)
+  - [Software and products](#software-and-products)
+  - [Cloud simulation platforms](#cloud-simulation-platforms)
+  - [Machine-readable materials datasets](#machine-readable-materials-datasets)
+  - [Standardization initiatives](#standardization-initiatives)
+  - [Similar compilations](#similar-compilations)
+  - [License](#license)
 
 
 ## Software and products
@@ -37,6 +40,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [matador](https://github.com/ml-evs/matador) - A library for aggregation and analysis of high-throughput DFT (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador)
 - [matbench](https://github.com/materialsproject/matbench) - Matbench: Benchmarks for materials science property prediction (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/matbench?style=social)](https://github.com/materialsproject/matbench)
 - [matminer](https://github.com/hackingmaterials/matminer) - A library for data mining in materials science (**Python**) [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social)](https://github.com/hackingmaterials/matminer)
+- [MatSciBERT](https://huggingface.co/m3rg-iitd/matscibert) - A Materials Domain Language Model for Text Mining and Information Extraction (**Python**).![GitHub Repo stars](https://img.shields.io/github/stars/M3RG-IITD/MatSciBERT?style=social)
 - [mat_discover](https://sparks-baird.github.io/mat_discover/) - Find high-performance candidates in chemical spaces, composition-only (**Python**). ![GitHub Repo stars](https://img.shields.io/github/stars/sparks-baird/mat_discover?style=social)
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
