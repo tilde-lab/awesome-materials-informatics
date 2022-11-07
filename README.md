@@ -7,14 +7,12 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Contents
 
-- [Awesome Materials Informatics ![Awesome](https://github.com/sindresorhus/awesome)](#awesome-materials-informatics-)
-  - [Contents](#contents)
-  - [Software and products](#software-and-products)
-  - [Cloud simulation platforms](#cloud-simulation-platforms)
-  - [Machine-readable materials datasets](#machine-readable-materials-datasets)
-  - [Standardization initiatives](#standardization-initiatives)
-  - [Similar compilations](#similar-compilations)
-  - [License](#license)
+- [Software and products](#software-and-products)
+- [Cloud simulation platforms](#cloud-simulation-platforms)
+- [Machine-readable materials datasets](#machine-readable-materials-datasets)
+- [Standardization initiatives](#standardization-initiatives)
+- [Similar compilations](#similar-compilations)
+- [License](#license)
 
 
 ## Software and products
