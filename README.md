@@ -63,6 +63,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [RDKit](https://github.com/rdkit/rdkit) - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit)
 - [SEAMM](https://molssi-seamm.github.io/) - Simulation Environment for Atomistic and Molecular Modeling (**Python**). [![Github Stars](https://img.shields.io/github/stars/molssi-seamm/seamm?style=social)](https://github.com/molssi-seamm/seamm)
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde)
+- [xtal2png](https://github.com/sparks-baird/xtal2png) - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png)
 
 
 ## Cloud simulation platforms
