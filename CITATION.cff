@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+title: Awesome Materials Informatics
+type: dataset
+license: CC0-1.0
+authors:
+  - given-names: Evgeny
+    family-names: Blokhin
+    orcid: 'https://orcid.org/0000-0002-5333-3947'
+doi: 10.5281/zenodo.7693349
+url: 'https://github.com/tilde-lab/awesome-materials-informatics'
+keywords:
+  - data science
+  - materials science
+  - chemistry
+  - crystallography
+  - crystal structure
+  - ab initio
+  - materials informatics
+  - materials platform
+  - phase diagram
+  - atomistic simulations
+  - materials discovery
+  - materials design
+  - materials genome
+  - materials dataset
+  - computational materials engineering
