@@ -66,7 +66,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [SEAMM](https://molssi-seamm.github.io/) - Simulation Environment for Atomistic and Molecular Modeling (**Python**). [![Github Stars](https://img.shields.io/github/stars/molssi-seamm/seamm?style=social)](https://github.com/molssi-seamm/seamm)
 - [SLAMD](https://github.com/BAMresearch/WEBSLAMD) - An open source web app for data driven acceleration of cement and concrete development through digital lab twin and AI optimization (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/BAMresearch/WEBSLAMD?style=social)](https://github.com/BAMresearch/WEBSLAMD)
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde)
-- [xtal2png](https://github.com/sparks-baird/xtal2png) - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png)
+- [xtal2png](https://github.com/sparks-baird/xtal2png) - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models. [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png)
 
 
 ## Cloud simulation platforms
@@ -76,7 +76,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Mat3ra](https://www.mat3ra.com/) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud from South Korea.
-- [Matlantis&trade;](https://matlantis.com) - Accelerated materials discovery platform (_proprietary_, Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
+- [Matlantis](https://matlantis.com) - Accelerated materials discovery platform (_proprietary_, Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
+- [Quantistry Lab](https://quantistry.com/en/product) - Cloud-based simulations of syntheses, designing novel materials, computational chemistry (_proprietary_, Germany).
 - [SIT Rolos](https://rolos.com) - Research platform for materials from Schaffhausen Institute of Technology (Switzerland).
 
 
@@ -143,7 +144,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [atomistic.software](https://atomistic.software) - a collection of major atomistic simulation engines with citation info
 - [Data‐Driven Materials Science: Status, Challenges, and Perspectives](https://doi.org/10.1002/advs.201900808)
-- [Experimental chemistry and materials science data](https://github.com/neo-chem/awesome-chemical-data).
+- [Experimental chemistry and materials science data](https://github.com/neo-chem/awesome-chemical-data)
 - [European Materials Modelling Council Taxondas](https://emmc.info/taxonda)
 - [Information Resources on Inorganic Chemistry](http://en.iric.imet-db.ru) - a collection from Baikov Institute of Metallurgy and Materials Science, Russia.
 - [Materials-Related Databases](https://github.com/blaiszik/Materials-Databases)
