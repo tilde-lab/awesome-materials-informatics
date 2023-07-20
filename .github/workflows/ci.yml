@@ -1,6 +1,6 @@
 name: CI
 
-on: [push, pull_request]
+on: [push, pull_request, workflow_dispatch]
 
 jobs:
   check-links:
@@ -10,7 +10,7 @@ jobs:
     - uses: actions/checkout@v2
     - name: Link Checker
       id: lc
-      uses: lycheeverse/lychee-action@v1.0.8
+      uses: lycheeverse/lychee-action@v1.8.0
       with:
         # See cli args at https://github.com/lycheeverse/lychee#commandline-parameters
         # for excluded URLs, the checker seems to be stricter than Chrome
