@@ -49,8 +49,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS)
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
 - [MODNet](https://github.com/ppdebreuck/modnet) - Select optimal descriptions and build models for predicting materials properties (**Python**). [![Github Stars](https://img.shields.io/github/stars/ppdebreuck/modnet?style=social)](https://github.com/ppdebreuck/modnet)
-- [mp-time-split](https://github.com/sparks-baird/mp-time-split) Use time-based cross-validation splits from Materials Project for generative modeling benchmarking (**Python**). [![Github Stars](https://img.shields.io/github/stars/sparks-baird/mp-time-split?style=social)](https://github.com/sparks-baird/mp-time-split)
-- [NOMAD Oasis](https://nomad-lab.eu/nomad-lab/nomad-oasis.html) - A web-base softwared to manage and share materials science data (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/nomad-coe/nomad?style=social)]
+- [mp-time-split](https://github.com/sparks-baird/mp-time-split) - Use time-based cross-validation splits from Materials Project for generative modeling benchmarking (**Python**). [![Github Stars](https://img.shields.io/github/stars/sparks-baird/mp-time-split?style=social)](https://github.com/sparks-baird/mp-time-split)
+- [NOMAD Oasis](https://nomad-lab.eu/nomad-lab/nomad-oasis.html) - A web-based software to manage and share materials data (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/nomad-coe/nomad?style=social)]
 - [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis)
 - [optimade-python-tools](https://github.com/Materials-Consortia/optimade-python-tools) - Tools for [OPTIMADE APIs](https://www.optimade.org) in **Python**. [![Github Stars](https://img.shields.io/github/stars/Materials-Consortia/optimade-python-tools?style=social)](https://github.com/Materials-Consortia/optimade-python-tools)
 - [piro](https://github.com/TRI-AMDD/piro) - Software for evaluating pareto-optimal synthesis pathways (**Python**). [![Github Stars](https://img.shields.io/github/stars/TRI-AMDD/piro?style=social)](https://github.com/TRI-AMDD/piro)
@@ -110,7 +110,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [MPOD](http://mpod.cimav.edu.mx/) - Material Properties Open Database.
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
 - [nanoHUB](https://nanohub.org/developer) - Place for computational nanotechnology research, education, and collaboration.
-- [NOMAD](https://nomad-lab.eu) - Novel Materials Discovery, Repository and Laboratory.
+- [NOMAD](https://nomad-lab.eu) - Novel Materials Discovery, Repository, and Laboratory.
 - [NREL MatDB](http://materials.nrel.gov) - Computational database of thermochemical and electronic properties of materials for renewable energy applications
 - [Organic Materials Database](https://omdb.mathub.io/) -  Electronic structure database for 3-dimensional organic crystals (Nordita).
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
