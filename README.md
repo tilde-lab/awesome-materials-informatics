@@ -74,7 +74,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Absolidix](https://absolidix.com) - On-demand cloud simulations of materials from **MPDS** (PAULING FILE) using **AiiDA** framework.
 - [AiiDAlab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework).
-- [Mat3ra](https://www.mat3ra.com/) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
+- [Mat3ra](https://www.mat3ra.com) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud from South Korea.
 - [Matlantis](https://matlantis.com) - Accelerated materials discovery platform (_proprietary_, Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
@@ -85,12 +85,12 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Machine-readable materials datasets
 
 - [AFLOW](http://www.aflowlib.org) - Flow for Materials Discovery repository (_cf._ **AFLOW** framework).
-- [ATB](https://atb.uq.edu.au/) - Automated Topology Builder and Repository.
+- [ATB](https://atb.uq.edu.au) - Automated Topology Builder and Repository.
 - [AtomWork](https://crystdb.nims.go.jp/en) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
 - [Baikov Institute of Metallurgy and Materials Science](https://imet-db.ru) - Databases of Russian Academy of Sciences.
 - [Carolina Materials Database](http://www.carolinamatdb.org) - an ML-DFT database of the University of South Carolina.
 - [CascadesDB](https://cascadesdb.org) - Molecular dynamics simulations of collision cascades, by the International Atomic Energy Agency.
-- [Catalysis Hub](https://www.catalysis-hub.org/) - Web-platform for sharing data and software for computational catalysis research.
+- [Catalysis Hub](https://www.catalysis-hub.org) - Web-platform for sharing data and software for computational catalysis research.
 - [cccbdb](http://cccbdb.nist.gov) - Computational Chemistry Comparison and Benchmark Database.
 - [CCDC](https://www.ccdc.cam.ac.uk) - Cambridge Crystallographic Data Centre (partly _proprietary_).
 - [Citrination](https://citrination.com) - AI-Powered Materials Data Platform (partly _proprietary_).
@@ -98,26 +98,27 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [COD](https://www.crystallography.net) - Crystallography Open Database (including theoretical database).
 - [ESP](http://gurka.fysik.uu.se/ESP) - Electronic Structure Project.
 - [HybriD3 Materials Database](https://materials.hybrid3.duke.edu/) - A comprehensive collection of experimental and computational materials data for crystalline organic-inorganic compounds.
-- [ICSD](https://icsd.products.fiz-karlsruhe.de/) - Inorganic Crystal Structure Database (partly _proprietary_).
-- [JARVIS](https://jarvis.nist.gov/) - Joint Automated Repository for Various Integrated Simulations (NIST).
+- [ICSD](https://icsd.products.fiz-karlsruhe.de) - Inorganic Crystal Structure Database (partly _proprietary_).
+- [JARVIS](https://jarvis.nist.gov) - Joint Automated Repository for Various Integrated Simulations (NIST).
 - [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
 - [Materials Cloud](https://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
+- [MaterialsMine](https://materialsmine.org) - An open-source repository for nanocomposite data (NanoMine) and mechanical metamaterials data (MetaMine). 
 - [Materials Project](https://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
 - [MolSSI](https://qcarchive.molssi.org) - The MolSSI Quantum Chemistry Archive.
 - [MPDS](https://mpds.io) - Materials Platform for Data Science (based on the PAULING FILE experimental database, partly _proprietary_).
-- [MPOD](http://mpod.cimav.edu.mx/) - Material Properties Open Database.
+- [MPOD](http://mpod.cimav.edu.mx) - Material Properties Open Database.
 - [MSE](http://mse.fhi-berlin.mpg.de) - Test Set for Materials Science and Engineering.
 - [nanoHUB](https://nanohub.org/developer) - Place for computational nanotechnology research, education, and collaboration.
 - [NOMAD](https://nomad-lab.eu) - Novel Materials Discovery, Repository, and Laboratory (_cf._ **NOMAD Oasis**).
 - [NREL MatDB](http://materials.nrel.gov) - Computational database of thermochemical and electronic properties of materials for renewable energy applications
-- [Organic Materials Database](https://omdb.mathub.io/) -  Electronic structure database for 3-dimensional organic crystals (Nordita).
+- [Organic Materials Database](https://omdb.mathub.io) - Electronic structure database for 3-dimensional organic crystals (Nordita).
 - [Open Materials Database](http://openmaterialsdb.se) - Materials-genome-type repository from ab-inito calculations (_cf._ **httk** framework).
 - [OpenKIM](https://openkim.org) - Repository of interatomic potential implementations and computational protocols for testing them.
 - [OQMD](http://oqmd.org) - Open Quantum Materials Database (_cf._ **qmpy** framework).
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
-- [Pitt Quantum Repository](https://pqr.pitt.edu/) - Molecular properties predicted from quantum mechanics.
+- [Pitt Quantum Repository](https://pqr.pitt.edu) - Molecular properties predicted from quantum mechanics.
 - [ROD](https://solsa.crystallography.net/rod/) - Raman Open Database.
 - [Topological Materials Database](https://www.topologicalquantumchemistry.org) - A Complete Catalogue of High-Quality Topological Materials.
 
@@ -138,7 +139,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [OPTIMADE](https://www.optimade.org) - Open Databases Integration for Materials Design, a REST API standard for exchanging materials information.
 - [PIF](https://citrineinformatics.github.io/pif-documentation/index.html) - Physical Information File schema (by Citrine), superseded by _GEMD_.
 - [Semantic Assets for Materials Science](https://doi.org/10.5281/zenodo.2456346) - Task group within the [vocabulary services interest group](https://rd-alliance.org/groups/vocabulary-services-interest-group.html) of the Research Data Alliance.
-- [Open Force Field Toolkit](https://open-forcefield-toolkit.readthedocs.io) - Specification for encoding molecular mechanics force fields (by [Open Force Field Initiative](http://openforcefield.org/)).
+- [Open Force Field Toolkit](https://open-forcefield-toolkit.readthedocs.io) - Specification for encoding molecular mechanics force fields (by [Open Force Field Initiative](http://openforcefield.org)).
 
 
 ## Similar compilations
