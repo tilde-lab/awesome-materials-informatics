@@ -43,6 +43,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [matador](https://github.com/ml-evs/matador) - A library for aggregation and analysis of high-throughput DFT (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador)
 - [matbench](https://github.com/materialsproject/matbench) - Matbench: Benchmarks for materials science property prediction (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/matbench?style=social)](https://github.com/materialsproject/matbench)
 - [matbench-genmetrics](https://github.com/sparks-baird/matbench-genmetrics) - Generative materials benchmarking metrics, inspired by [guacamol](https://www.benevolent.com/guacamol) and [CDVAE](https://github.com/txie-93/cdvae) (**Python**). [![Github Stars](https://img.shields.io/github/stars/sparks-baird/matbench-genmetrics?style=social)](https://github.com/sparks-baird/matbench-genmetrics)
+- [MaterialsMine](https://materialsmine.org/) - An open-source repository of web-based analysis and visualization tools for nanocomposites and metamaterials. 
 - [matminer](https://github.com/hackingmaterials/matminer) - A library for data mining in materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social)](https://github.com/hackingmaterials/matminer)
 - [MatSciBERT](https://huggingface.co/m3rg-iitd/matscibert) - A Materials Domain Language Model for Text Mining and Information Extraction (**Python**).![GitHub Repo stars](https://img.shields.io/github/stars/M3RG-IITD/MatSciBERT?style=social)
 - [mat_discover](https://sparks-baird.github.io/mat_discover/) - Find high-performance candidates in chemical spaces, composition-only (**Python**). ![GitHub Repo stars](https://img.shields.io/github/stars/sparks-baird/mat_discover?style=social)
@@ -103,6 +104,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Khazana](https://khazana.gatech.edu) - Repository for data created in atomistic simulations, features also the polymer genome.
 - [Materials Cloud](https://www.materialscloud.org) - A Platform for Open Materials Science (_cf._ **AiiDA** framework).
 - [Materials Genome Engineering Databases of China](https://www.mgedata.cn) - National integration platform (_cf._ **MatCloud**).
+- [MaterialsMine](https://materialsmine.org/) - An open source repository for nanocomposite data (NanoMine), and mechanical metamaterials data (MetaMine). 
 - [Materials Project](https://www.materialsproject.org) - Computed information on known and predicted materials (_cf._ **Pymatgen** framework).
 - [MDF](https://materialsdatafacility.org) - Materials Data Facility, a set of data services built specifically to support materials science researchers.
 - [MolSSI](https://qcarchive.molssi.org) - The MolSSI Quantum Chemistry Archive.
