@@ -34,7 +34,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Crystal Toolkit](https://docs.crystaltoolkit.org) - A framework for building web apps for materials science powering the new Materials Project website. [![Github Stars](https://img.shields.io/github/stars/materialsproject/crystaltoolkit?style=social)](https://github.com/materialsproject/crystaltoolkit)
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian)
 - [datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit (**Python**). [![Github Stars](https://img.shields.io/github/stars/datamol-org/datamol?style=social)](https://github.com/datamol-org/datamol)
-- [ElMD](https://github.com/lrcfmd/ElMD/) - Quantify the chemical similarity between two compositions using the Element Movers Distance. [!Github Stars](https://img.shields.io/github/stars/lrcfmd/ElMD?style=social)](https://github.com/lrcfmd/ElMD/)
+- [ElMD](https://github.com/lrcfmd/ElMD/) - Quantify the chemical similarity between two compositions using the Element Movers Distance. [![Github Stars](https://img.shields.io/github/stars/lrcfmd/ElMD?style=social)](https://github.com/lrcfmd/ElMD/)
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks)
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
 - [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk)
@@ -75,7 +75,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Absolidix](https://absolidix.com) - On-demand cloud simulations of materials from **MPDS** (PAULING FILE) using **AiiDA** framework.
 - [AiiDAlab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework).
-- [LMDS](https://lmds.liverpool.ac.uk) - The liverpool materials discovery server hosts computational tools to help experimental chemists search for new materials. 
+- [LMDS](https://lmds.liverpool.ac.uk) - The liverpool materials discovery server hosts computational tools to help experimental chemists search for new materials.  
 - [Mat3ra](https://www.mat3ra.com) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
 - [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud from South Korea.
