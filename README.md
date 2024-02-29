@@ -73,15 +73,15 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 ## Cloud simulation platforms
 
-- [Absolidix](https://absolidix.com) - On-demand cloud simulations of materials from **MPDS** (PAULING FILE) using **AiiDA** framework.
+- [Absolidix](https://absolidix.com) - An early preview of the on-demand cloud simulations of materials from **MPDS** (PAULING FILE) with **AiiDA** framework.
 - [AiiDAlab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework).
-- [LMDS](https://lmds.liverpool.ac.uk) - The liverpool materials discovery server hosts computational tools to help experimental chemists search for new materials.  
+- [LMDS](https://lmds.liverpool.ac.uk) - The Liverpool materials discovery server hosts computational tools to help experimental chemists search for new materials.  
 - [Mat3ra](https://www.mat3ra.com) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
-- [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project.
-- [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud from South Korea.
+- [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project (_proprietary_, China).
+- [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud (_proprietary_, South Korea).
 - [Matlantis](https://matlantis.com) - Accelerated materials discovery platform (_proprietary_, Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
 - [Quantistry Lab](https://quantistry.com/en/product) - Cloud-based simulations of syntheses, designing novel materials, computational chemistry (_proprietary_, Germany).
-- [SIT Rolos](https://rolos.com) - Research platform for materials from Schaffhausen Institute of Technology (Switzerland).
+- [SIT Rolos](https://rolos.com) - Research platform for materials from Schaffhausen Institute of Technology (_proprietary_, Switzerland).
 
 
 ## Machine-readable materials datasets
