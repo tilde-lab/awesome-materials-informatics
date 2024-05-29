@@ -75,6 +75,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [Absolidix](https://absolidix.com) - An early preview of the on-demand cloud simulations of materials from **MPDS** (PAULING FILE) with **AiiDA** framework.
 - [AiiDAlab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework).
+- [Atomic Tessellator](https://atomictessellator.com) - Computational chemistry cloud and AI lab from New Zealand (_proprietary_).
+- [Compular](https://compulartech.com) - New materials development cloud from Sweden (_proprietary_).
 - [LMDS](https://lmds.liverpool.ac.uk) - The Liverpool materials discovery server hosts computational tools to help experimental chemists search for new materials.  
 - [Mat3ra](https://www.mat3ra.com) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
 - [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project (_proprietary_, China).
