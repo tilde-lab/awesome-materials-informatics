@@ -10,7 +10,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Contents
 
 - [Software and products](#software-and-products)
-- [Cloud simulation platforms](#cloud-simulation-platforms)
+- [Cloud simulation platforms and AI startups](#cloud-simulation-platforms-and-ai-startups)
 - [Machine-readable materials datasets](#machine-readable-materials-datasets)
 - [Standardization initiatives](#standardization-initiatives)
 - [Similar compilations](#similar-compilations)
@@ -71,19 +71,24 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [xtal2png](https://github.com/sparks-baird/xtal2png) - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models. [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png)
 
 
-## Cloud simulation platforms
+## Cloud simulation platforms and AI startups
 
 - [Absolidix](https://absolidix.com) - An early preview of the on-demand cloud simulations of materials from **MPDS** (PAULING FILE) with **AiiDA** framework.
 - [AiiDAlab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework).
-- [Atomic Tessellator](https://atomictessellator.com) - Computational chemistry cloud and AI lab from New Zealand (_proprietary_).
-- [Compular](https://compulartech.com) - New materials development cloud from Sweden (_proprietary_).
+- [Ångström AI](https://www.angstrom-ai.com) - Accelerating molecular simulation using generative AI (California, USA).
+- [Atomic Tessellator](https://atomictessellator.com) - Computational chemistry cloud and AI lab from New Zealand.
+- [Compular](https://compulartech.com) - New materials development cloud from Sweden.
+- [CuspAI](https://www.cusp.ai) - Combat Climate Change with AI-Designed Materials (Cambridge, UK).
+- [Entalpic](https://entalpic.ai) - AI-driven company for discovering new chemical processes and materials (France).
 - [LMDS](https://lmds.liverpool.ac.uk) - The Liverpool materials discovery server hosts computational tools to help experimental chemists search for new materials.  
-- [Mat3ra](https://www.mat3ra.com) - Materials Modeling 2.0 (_proprietary_ cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
-- [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project (_proprietary_, China).
-- [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud (_proprietary_, South Korea).
-- [Matlantis](https://matlantis.com) - Accelerated materials discovery platform (_proprietary_, Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
-- [Quantistry Lab](https://quantistry.com/en/product) - Cloud-based simulations of syntheses, designing novel materials, computational chemistry (_proprietary_, Germany).
-- [SIT Rolos](https://rolos.com) - Research platform for materials from Schaffhausen Institute of Technology (_proprietary_, Switzerland).
+- [Mat3ra](https://www.mat3ra.com) - Materials Modeling 2.0 (cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
+- [MatCloud](http://matcloud.cnic.cn) - Cloud-based computational infrastructure of the Chinese Materials Genome Project (China).
+- [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud (South Korea).
+- [Matlantis](https://matlantis.com) - Accelerated materials discovery platform (Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
+- [Orbital Materials](https://orbitalmaterials.com) - Advanced materials, made with AI (UK).
+- [Radical AI](https://www.radical-ai.com) - Accelerating materials R&D (New York, USA).
+- [Quantistry Lab](https://quantistry.com/en/product) - Cloud-based simulations of syntheses, designing novel materials, computational chemistry (Germany).
+- [SIT Rolos](https://rolos.com) - Research platform for materials from Schaffhausen Institute of Technology (Switzerland).
 
 
 ## Machine-readable materials datasets
