@@ -77,6 +77,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [AiiDAlab](https://www.materialscloud.org/aiidalab) - Web platform & GUI for AiiDA in the Cloud (_cf._ **AiiDA** framework).
 - [Ångström AI](https://www.angstrom-ai.com) - Accelerating molecular simulation using generative AI (California, USA).
 - [Atomic Tessellator](https://atomictessellator.com) - Computational chemistry cloud and AI lab from New Zealand.
+- [Azure Quantum Elements](https://quantum.microsoft.com) - Microsoft's Quantum Computing including generative chemistry and accelerated DFT.
 - [Compular](https://compulartech.com) - New materials development cloud from Sweden.
 - [CuspAI](https://www.cusp.ai) - Combat Climate Change with AI-Designed Materials (Cambridge, UK).
 - [Entalpic](https://entalpic.ai) - AI-driven company for discovering new chemical processes and materials (France).
