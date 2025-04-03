@@ -21,8 +21,8 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
 - [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core)
-- [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
-- [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
+- [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**). [![Gitlab Stars](https://img.shields.io/gitlab/stars/ase%2Fase)](https://gitlab.com/ase/ase)
+- [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**). [![Gitlab Stars](https://img.shields.io/gitlab/stars/dtorel%2Fasr)](https://gitlab.com/dtorel/asr)
 - [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate)
 - [aviary](https://github.com/CompRhys/aviary) - Predict materials properties using compositions and Wyckoff representations (**Python**). [![Github Stars](https://img.shields.io/github/stars/CompRhys/aviary?style=social)](https://github.com/CompRhys/aviary)
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
