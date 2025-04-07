@@ -68,7 +68,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [SEAMM](https://molssi-seamm.github.io/) - Simulation Environment for Atomistic and Molecular Modeling (**Python**). [![Github Stars](https://img.shields.io/github/stars/molssi-seamm/seamm?style=social)](https://github.com/molssi-seamm/seamm)
 - [SLAMD](https://github.com/BAMresearch/WEBSLAMD) - An open source web app for data driven acceleration of cement and concrete development through digital lab twin and AI optimization (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/BAMresearch/WEBSLAMD?style=social)](https://github.com/BAMresearch/WEBSLAMD)
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde)
-- [XenonPy](https://github.com/yoshida-lab/XenonPy) - A Python library that implements a comprehensive set of machine learning tools for materials informatics. 
+- [XenonPy](https://github.com/yoshida-lab/XenonPy) - A Python library that implements a comprehensive set of machine learning tools for materials informatics. [![Github Stars](https://img.shields.io/github/stars/yoshida-lab/XenonPy?style=social)](https://github.com/yoshida-lab/XenonPy)
 - [xtal2png](https://github.com/sparks-baird/xtal2png) - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models. [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png)
 
 
