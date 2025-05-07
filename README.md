@@ -33,10 +33,11 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [CrabNet](https://github.com/anthony-wang/CrabNet) - Predict materials properties using only the composition information. (**Python**). ![GitHub Repo stars](https://img.shields.io/github/stars/anthony-wang/CrabNet?style=social)
 - [Crystal Toolkit](https://docs.crystaltoolkit.org) - A framework for building web apps for materials science powering the new Materials Project website. [![Github Stars](https://img.shields.io/github/stars/materialsproject/crystaltoolkit?style=social)](https://github.com/materialsproject/crystaltoolkit)
 - [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian)
-- [datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light wrapper build on top of RDKit (**Python**). [![Github Stars](https://img.shields.io/github/stars/datamol-org/datamol?style=social)](https://github.com/datamol-org/datamol)
+- [datamol](https://github.com/datamol-org/datamol) - Molecular Manipulation Made Easy. A light wrapper built on top of RDKit (**Python**). [![Github Stars](https://img.shields.io/github/stars/datamol-org/datamol?style=social)](https://github.com/datamol-org/datamol)
 - [ElMD](https://github.com/lrcfmd/ElMD) - Quantify the chemical similarity between two compositions using the Element Movers Distance. [![Github Stars](https://img.shields.io/github/stars/lrcfmd/ElMD?style=social)](https://github.com/lrcfmd/ElMD/)
 - [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks)
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
+- [Grobid superconductors](https://github.com/lfoppiano/grobid-superconductors) - Open source [Grobid](https://github.com/kermitt2/grobid) module for extracting superconductor material and related properties
 - [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk)
 - [ICMD](https://www.questek.com/software) - A digital materials design platform in the cloud from QuesTek Innovations LLC (_proprietary_).
 - [ioChem-BD](https://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
@@ -66,6 +67,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [quacc](https://github.com/arosen93/quacc) - **Python** platform for high-throughput, database-driven computational materials science and quantum chemistry [![Github Stars](https://img.shields.io/github/stars/arosen93/quacc?style=social)](https://github.com/arosen93/quacc)
 - [RDKit](https://github.com/rdkit/rdkit) - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit)
 - [SEAMM](https://molssi-seamm.github.io/) - Simulation Environment for Atomistic and Molecular Modeling (**Python**). [![Github Stars](https://img.shields.io/github/stars/molssi-seamm/seamm?style=social)](https://github.com/molssi-seamm/seamm)
+- [SuperCon2](https://github.com/lfoppiano/supercon2) - A user interface for curating Superconductors materials and properties extracted by [grobid-superconductors](https://github.com/lfoppiano/grobid-superconductors)
 - [SLAMD](https://github.com/BAMresearch/WEBSLAMD) - An open source web app for data driven acceleration of cement and concrete development through digital lab twin and AI optimization (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/BAMresearch/WEBSLAMD?style=social)](https://github.com/BAMresearch/WEBSLAMD)
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde)
 - [XenonPy](https://github.com/yoshida-lab/XenonPy) - A Python library that implements a comprehensive set of machine learning tools for materials informatics. [![Github Stars](https://img.shields.io/github/stars/yoshida-lab/XenonPy?style=social)](https://github.com/yoshida-lab/XenonPy)
@@ -131,6 +133,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Phonon database at Kyoto university](http://phonondb.mtl.kyoto-u.ac.jp) - Computational phonon band structures, density of states and thermal properties.
 - [Pitt Quantum Repository](https://pqr.pitt.edu) - Molecular properties predicted from quantum mechanics.
 - [ROD](https://solsa.crystallography.net/rod/) - Raman Open Database.
+- [SuperMat](https://github.com/lfoppiano/SuperMat) - A dataset of superconductors materials
 - [Topological Materials Database](https://www.topologicalquantumchemistry.org) - A Complete Catalogue of High-Quality Topological Materials.
 
 
