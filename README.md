@@ -83,6 +83,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Azure Quantum Elements](https://quantum.microsoft.com) - Microsoft's Quantum Computing including generative chemistry and accelerated DFT.
 - [Compular](https://compulartech.com) - New materials development cloud from Sweden.
 - [CuspAI](https://www.cusp.ai) - Combat Climate Change with AI-Designed Materials (Cambridge, UK).
+- [Dunia Innovations](https://dunia.ai) - A Berlin-based materials discovery startup (Germany).
 - [Entalpic](https://entalpic.ai) - AI-driven company for discovering new chemical processes and materials (France).
 - [LMDS](https://lmds.liverpool.ac.uk) - The Liverpool materials discovery server hosts computational tools to help experimental chemists search for new materials.  
 - [Mat3ra](https://www.mat3ra.com) - Materials Modeling 2.0 (cloud engine from Silicon Valley). [![GitHub followers](https://img.shields.io/github/followers/Exabyte-io?style=social)](https://github.com/Exabyte-io)
