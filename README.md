@@ -90,6 +90,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [Materials Square](https://www.materialssquare.com) - Ab initio and CALPHAD simulations cloud (South Korea).
 - [Matlantis](https://matlantis.com) - Accelerated materials discovery platform (Japan). [![GitHub followers](https://img.shields.io/github/followers/matlantis-pfcc?style=social)](https://github.com/matlantis-pfcc)
 - [Orbital Materials](https://orbitalmaterials.com) - Advanced materials, made with AI (UK).
+- [Periodic Labs](https://periodiclabs.ai) - A new materials AI startup from OpenAI and Google DeepMind (USA and UK).
 - [Radical AI](https://www.radical-ai.com) - Accelerating materials R&D (New York, USA).
 - [Quantistry Lab](https://quantistry.com/en/product) - Cloud-based simulations of syntheses, designing novel materials, computational chemistry (Germany).
 - [SIT Rolos](https://rolos.com) - Research platform for materials from Schaffhausen Institute of Technology (Switzerland).
