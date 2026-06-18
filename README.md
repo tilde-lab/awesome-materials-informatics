@@ -161,6 +161,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Similar compilations
 
 - [atomistic.software](https://atomistic.software) - a collection of major atomistic simulation engines with citation info
+- [Awesome-Thermoelectrics](https://github.com/HadisBehjat/Awesome-Thermoelectrics) - A curated list of papers, datasets, and software tools at the intersection of machine learning and thermoelectric materials.
 - [Best of Atomistic Machine Learning](https://github.com/JuDFTteam/best-of-atomistic-machine-learning) - curated list with 510+ atomistic projects
 - [Data‐Driven Materials Science: Status, Challenges, and Perspectives](https://doi.org/10.1002/advs.201900808)
 - [Experimental chemistry and materials science data](https://github.com/neo-chem/awesome-chemical-data)
