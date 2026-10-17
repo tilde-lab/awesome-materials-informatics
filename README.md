@@ -71,6 +71,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 - [SLAMD](https://github.com/BAMresearch/WEBSLAMD) - An open source web app for data driven acceleration of cement and concrete development through digital lab twin and AI optimization (**Python/javascript**). [![Github Stars](https://img.shields.io/github/stars/BAMresearch/WEBSLAMD?style=social)](https://github.com/BAMresearch/WEBSLAMD)
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde)
 - [XenonPy](https://github.com/yoshida-lab/XenonPy) - A Python library that implements a comprehensive set of machine learning tools for materials informatics. [![Github Stars](https://img.shields.io/github/stars/yoshida-lab/XenonPy?style=social)](https://github.com/yoshida-lab/XenonPy)
+- [XRDKit](https://github.com/NabKh/XRDKit) - Powder XRD reference patterns from CIF/POSCAR, COD and Materials Project, with observed-simulated difference plots and a web app (**Python**). [![Github Stars](https://img.shields.io/github/stars/NabKh/XRDKit?style=social)](https://github.com/NabKh/XRDKit)
 - [xtal2png](https://github.com/sparks-baird/xtal2png) - **Python** package for invertibly representing crystal structures as PNG images for screening state-of-the-art image-processing generative models. [![Github Stars](https://img.shields.io/github/stars/sparks-baird/xtal2png?style=social)](https://github.com/sparks-baird/xtal2png)
 
 
