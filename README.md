@@ -100,6 +100,7 @@ Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md)
 ## Machine-readable materials datasets
 
 - [AFLOW](http://www.aflowlib.org) - Flow for Materials Discovery repository (_cf._ **AFLOW** framework).
+- [AgentFEM Material Loading Memory](https://huggingface.co/datasets/HaomingLuo/AgentFEM-Material-Loading-Memory) - Synthetic multiaxial stress-strain histories and internal-state labels for path-dependent constitutive learning, with documented training and evaluation roles (CC BY 4.0).
 - [ATB](https://atb.uq.edu.au) - Automated Topology Builder and Repository.
 - [AtomWork](https://crystdb.nims.go.jp/en) and [AtomWork-Adv](https://atomwork-adv.nims.go.jp) - Data platform of NIMS, Japan (based on the PAULING FILE experimental database).
 - [Baikov Institute of Metallurgy and Materials Science](https://imet-db.ru) - Databases of Russian Academy of Sciences.
